@@ -10,7 +10,7 @@
   
   <meta name="author" content="Themefisher.com">
 
-  <title>RECOMB 2024 | SATELLITES SCHEDULE AT A GLANCE</title>
+  <title>RECOMB 2024 | RECOMB GENETICS SCHEDULE</title>
 
   <link rel="alternate" href="http://recomb2024.bilkent.edu.tr" hreflang="en-gb" />
   <link rel="alternate" href="http://recomb2024.bilkent.edu.tr" hreflang="en-us" />
@@ -216,27 +216,196 @@
   </div>
 
  <div class="row">        
-        <div class="col-md-3 col-sm-3 col-xs-3 col-4"><p class="time">10:45 - 12:00</p></div>
+        <div class="col-md-3 col-sm-3 col-xs-3 col-4"><p class="time">10:45 - 12:30</p></div>
         <div class="col-md-9 col-sm-9 col-xs-9 col-8">
-          <button type="button" class="btn" data-toggle="collapse" aria-expanded="true" data-target="#lmorning">Late Morning Sessions</button>
+          <button type="button" class="btn" data-toggle="collapse" aria-expanded="true" data-target="#lmorning">Sessions</button>
 		        <div id="lmorning" class="collapse show">
-		          <p class="text">
-	
+ 	<p class="text">
+                <b>Improved imputation of rare genetic variants using deep learning [Paper Talk]</b>
+                <br>
+                <i>Ulzee An, Jingyuan Fu, Eleazar Eskin and Sriram Sankararaman</i>
+<!--            <br><br>
+                <button class="btn-abstract" data-toggle="collapse" data-target="#collapses1"><i class="fas fa-pencil-alt" aria-hidden="true"></i>Abstract</button>
+                <div class="collapse" id="collapses1">
+                  <p class="text">
+                   Abstract here.				   
+                  </p>
+                </div> 
+-->
+        </p>
+
+	<hr>
+
+ 	<p class="text">
+                <b>Polygenic scoring accuracy varies across the genetic ancestry continuum [Highlight Talk]</b>
+                <br>
+                <i>Yi Ding, Kangcheng Hou, Ziqi Xu, Aditya Pimplaskar, Ella Petter, Kristin Boulier, Florian Privé, Bjarni J. Vilhjálmsson, Loes M. Olde Loohuis and Bogdan Pasaniuc</i>
+<!--            <br><br>
+                <button class="btn-abstract" data-toggle="collapse" data-target="#collapses2"><i class="fas fa-pencil-alt" aria-hidden="true"></i>Abstract</button>
+                <div class="collapse" id="collapses2">
+                  <p class="text">
+                   Abstract here.				   
+                  </p>
+                </div> 
+-->
+        </p>
+
+        <hr>
+
+ 	<p class="text">
+                <b>Power of inclusion: Enhancing polygenic prediction with admixed individuals [Highlight Talk]</b>
+                <br>
+                <i>Yosuke Tanigawa and Manolis Kellis</i>
+<!--            <br><br>
+                <button class="btn-abstract" data-toggle="collapse" data-target="#collapses3"><i class="fas fa-pencil-alt" aria-hidden="true"></i>Abstract</button>
+                <div class="collapse" id="collapses3">
+                  <p class="text">
+                   Abstract here.				   
+                  </p>
+                </div> 
+-->
+        </p>
+
+        <hr>
+
+ 	<p class="text">
+                <b>Extending Genome-Wide Association Studies to admixed cohorts with high degrees of relatedness [Poster Talk]</b>
+                <br>
+                <i>Taotao Tan, José Martínez-Magaña, Janitza Montalvo-Ortiz, Wei Zhou and Elizabeth Atkinson</i>
+<!--            <br><br>
+                <button class="btn-abstract" data-toggle="collapse" data-target="#collapses4"><i class="fas fa-pencil-alt" aria-hidden="true"></i>Abstract</button>
+                <div class="collapse" id="collapses4">
+                  <p class="text">
+                   Abstract here.				   
+                  </p>
+                </div> 
+-->
+        </p>
+
+        <hr>
+
+ 	<p class="text">
+                <b>PhenoEncoder: A Multi-Autoencoder Approach for Disease-Aware Compression of Genomic Data [Poster Talk]</b>
+                <br>
+                <i>Gizem Taş, Jan Herman Veldink, Alexander Schoenhuth and Marleen Balvert</i>
+<!--            <br><br>
+                <button class="btn-abstract" data-toggle="collapse" data-target="#collapses5"><i class="fas fa-pencil-alt" aria-hidden="true"></i>Abstract</button>
+                <div class="collapse" id="collapses5">
+                  <p class="text">
+                   Abstract here.				   
+                  </p>
+                </div> 
+-->
+        </p>
+
             </div>
         </div>
   </div>
 
 	<div class="row">
-          <div class="col-md-3 col-sm-3 col-xs-3 col-4"><p class="time">12:00 - 13:30</p></div>
-          <div class="col-md-9 col-sm-9 col-xs-9 col-8"><p class="activity">Lunch Break</p></div>
+          <div class="col-md-3 col-sm-3 col-xs-3 col-4"><p class="time">12:30 - 13:30</p></div>
+          <div class="col-md-9 col-sm-9 col-xs-9 col-8"><p class="activity">Lunch Break (Lunch Provided)</p></div>
   </div>
 
  <div class="row">        
         <div class="col-md-3 col-sm-3 col-xs-3 col-4"><p class="time">13:30 - 15:30</p></div>
         <div class="col-md-9 col-sm-9 col-xs-9 col-8">
-          <button type="button" class="btn" data-toggle="collapse" aria-expanded="true" data-target="#afternoon">Afternoon Sessions</button>
+          <button type="button" class="btn" data-toggle="collapse" aria-expanded="true" data-target="#afternoon">Sessions</button>
 		        <div id="afternoon" class="collapse show">
-		          <p class="text">
+
+	<p class="text">
+                <b>COX proportional hazards Mixed Model (COXMM) accurately estimates the heritability of time-to-event traits [Paper Talk]</b>
+                <br>
+                <i>Kodi Taraszka and Alexander Gusev</i>
+<!--            <br><br>
+                <button class="btn-abstract" data-toggle="collapse" data-target="#collapses6"><i class="fas fa-pencil-alt" aria-hidden="true"></i>Abstract</button>
+                <div class="collapse" id="collapses6">
+                  <p class="text">
+                   Abstract here.				   
+                  </p>
+                </div> 
+-->
+        </p>
+
+	<hr>
+
+	<p class="text">
+                <b>dotears: Scalable, consistent DAG estimation using observational and interventional data [Paper Talk]</b>
+                <br>
+                <i>Albert Xue, Jingyou Rao, Sriram Sankararaman and Harold Pimentel</i>
+<!--            <br><br>
+                <button class="btn-abstract" data-toggle="collapse" data-target="#collapses7"><i class="fas fa-pencil-alt" aria-hidden="true"></i>Abstract</button>
+                <div class="collapse" id="collapses7">
+                  <p class="text">
+                   Abstract here.				   
+                  </p>
+                </div> 
+-->
+        </p>
+
+	<hr>
+
+ 	<p class="text">
+                <b>Deep Learning-based Phenotype Imputation on Population-scale Biobank Data Increases Genetic Discoveries [Highlight Talk]</b>
+                <br>
+                <i>Ulzee An, Ali Pazokitoroudi, Marcus Alvarez, Lianyun Huang, Silviu Bacanu, Andrew J. Schork, Kenneth Kendler, Päivi Pajukanta, Jonathan Flint, Noah Zaitlen, Na Cai, Andy Dahl and Sriram Sankararaman</i>
+<!--            <br><br>
+                <button class="btn-abstract" data-toggle="collapse" data-target="#collapses8"><i class="fas fa-pencil-alt" aria-hidden="true"></i>Abstract</button>
+                <div class="collapse" id="collapses8">
+                  <p class="text">
+                   Abstract here.				   
+                  </p>
+                </div> 
+-->
+        </p>
+
+        <hr>
+
+ 	<p class="text">
+                <b>Impact of cross-ancestry genetic architecture on GWASs in admixed populations [Highlight Talk]</b>
+                <br>
+                <i>Rachel Mester, Kangcheng Hou, Yi Ding, Gillian Meeks, Kathryn S Burch, Arjun Bhattacharya, Brenna M Henn and Bogdan Pasaniuc</i>
+<!--            <br><br>
+                <button class="btn-abstract" data-toggle="collapse" data-target="#collapses9"><i class="fas fa-pencil-alt" aria-hidden="true"></i>Abstract</button>
+                <div class="collapse" id="collapses9">
+                  <p class="text">
+                   Abstract here.				   
+                  </p>
+                </div> 
+-->
+        </p>
+
+        <hr>
+
+ 	<p class="text">
+                <b>Multimodal analysis of RNA sequencing data powers discovery of complex trait genetics [Poster Talk]</b>
+                <br>
+                <i>Daniel Munro, Nava Ehsan, Robert Vogel, Mehdi Esmaeili-Fard, Alexander Gusev, Abraham Palmer and Pejman Mohammadi</i>
+<!--            <br><br>
+                <button class="btn-abstract" data-toggle="collapse" data-target="#collapses10"><i class="fas fa-pencil-alt" aria-hidden="true"></i>Abstract</button>
+                <div class="collapse" id="collapses10">
+                  <p class="text">
+                   Abstract here.				   
+                  </p>
+                </div> 
+-->
+        </p>
+
+        <hr>
+
+ 	<p class="text">
+                <b>Leveraging data from diverse ancestries to uncover comprehensive genotype driven fetal- and adult-specific brain transcriptomic mechanisms in psychiatric disorders [Poster Talk]</b>
+                <br>
+                <i>Aarti Jajoo, C Chatzinakos, A Aruldass, C Wen, T Bigdeli, M Gandal and N Daskalakis</i>
+<!--            <br><br>
+                <button class="btn-abstract" data-toggle="collapse" data-target="#collapses11"><i class="fas fa-pencil-alt" aria-hidden="true"></i>Abstract</button>
+                <div class="collapse" id="collapses11">
+                  <p class="text">
+                   Abstract here.				   
+                  </p>
+                </div> 
+-->
+        </p>
 	
             </div>
         </div>
@@ -244,152 +413,99 @@
         
 	<div class="row">
           <div class="col-md-3 col-sm-3 col-xs-3 col-4"><p class="time">15:30 - 16:30</p></div>
-          <div class="col-md-9 col-sm-9 col-xs-9 col-8"><p class="activity">Poster Session I & Coffee Break</p></div>
+          <div class="col-md-9 col-sm-9 col-xs-9 col-8"><p class="activity">Poster Session & Coffee Break</p></div>
   </div>
 
  <div class="row">        
         <div class="col-md-3 col-sm-3 col-xs-3 col-4"><p class="time">16:30 - 18:00</p></div>
         <div class="col-md-9 col-sm-9 col-xs-9 col-8">
-          <button type="button" class="btn" data-toggle="collapse" aria-expanded="true" data-target="#lafternoon">Late Afternoon Sessions</button>
+          <button type="button" class="btn" data-toggle="collapse" aria-expanded="true" data-target="#lafternoon">Sessions</button>
 		        <div id="lafternoon" class="collapse show">
-		          <p class="text">
+
+	<p class="text">
+                <b>Exploring Nonlinear Dimensionality Reduction Techniques for Population Structure Inference from Genotypes [Paper Talk]</b>
+                <br>
+                <i>Varuni Sarwal, Boyang Fu and Sriram Sankararaman</i>
+<!--            <br><br>
+                <button class="btn-abstract" data-toggle="collapse" data-target="#collapses12"><i class="fas fa-pencil-alt" aria-hidden="true"></i>Abstract</button>
+                <div class="collapse" id="collapses12">
+                  <p class="text">
+                   Abstract here.				   
+                  </p>
+                </div> 
+-->
+        </p>
+
+	<hr>
+
+	<p class="text">
+                <b>A Hybrid Constrained Continuous Optimization Approach for Optimal Causal Discovery from Biological Data [Paper Talk]</b>
+                <br>
+                <i>Yuehua Zhu and Maria Chikina</i>
+<!--            <br><br>
+                <button class="btn-abstract" data-toggle="collapse" data-target="#collapses13"><i class="fas fa-pencil-alt" aria-hidden="true"></i>Abstract</button>
+                <div class="collapse" id="collapses13">
+                  <p class="text">
+                   Abstract here.				   
+                  </p>
+                </div> 
+-->
+        </p>
+
+	<hr>
+
+ 	<p class="text">
+                <b>Fast kernel-based association testing of non-linear genetic effects for biobank-scale data [Highlight Talk]</b>
+                <br>
+                <i>Boyang Fu, Ali Pazokitoroudi, Mukund Sudarshan, Zhengtong Liu, Lakshminarayanan Subramanian and Sriram Sankararaman</i>
+<!--            <br><br>
+                <button class="btn-abstract" data-toggle="collapse" data-target="#collapses14"><i class="fas fa-pencil-alt" aria-hidden="true"></i>Abstract</button>
+                <div class="collapse" id="collapses14">
+                  <p class="text">
+                   Abstract here.				   
+                  </p>
+                </div> 
+-->
+        </p>
+
+        <hr>
+
+ 	<p class="text">
+                <b>High-resolution detection of copy number alterations in single cells with SCANNER [Poster Talk]</b>
+                <br>
+                <i>Yifan Zhao, Lovelace J. Luquette, Xiaochen Wang, Ruibin Xi, Alex D. Veit, Vinayak V. Viswanadham, Mark D. Johnson, Hong Wei Yang, Diane S. Shao, Christopher A. Walsh and Peter J. Park</i>
+<!--            <br><br>
+                <button class="btn-abstract" data-toggle="collapse" data-target="#collapses15"><i class="fas fa-pencil-alt" aria-hidden="true"></i>Abstract</button>
+                <div class="collapse" id="collapses15">
+                  <p class="text">
+                   Abstract here.				   
+                  </p>
+                </div> 
+-->
+        </p>
+
+        <hr>
+
+ 	<p class="text">
+                <b>The presence of cryptic relatedness creates inflation in meta-analyses of genome-wide association studies [Poster Talk]</b>
+                <br>
+                <i>Tiffany Tu and Alejandro Ochoa</i>
+<!--            <br><br>
+                <button class="btn-abstract" data-toggle="collapse" data-target="#collapses16"><i class="fas fa-pencil-alt" aria-hidden="true"></i>Abstract</button>
+                <div class="collapse" id="collapses16">
+                  <p class="text">
+                   Abstract here.				   
+                  </p>
+                </div> 
+-->
+        </p>
 	
             </div>
         </div>
   </div>
 
-  <h3>Sunday, April 28 (Seq, CG, Genetics & PRIEQ)</h3>
-  <hr>
-  <div class="row">
-    <div class="col-md-3 col-sm-3 col-xs-3 col-4"><p class="time">09:00 - 09:30</p></div>
-    <div class="col-md-9 col-sm-9 col-xs-9 col-8"><p class="activity"><b>Breakfast</b></p></div>
-  </div>  
+  
 
-	<div class="row">        
-        <div class="col-md-3 col-sm-3 col-xs-3 col-4"><p class="time">09:30 - 10:30</p></div>
-        <div class="col-md-9 col-sm-9 col-xs-9 col-8">
-          <button type="button" class="btn" data-toggle="collapse" aria-expanded="true" data-target="#morning2">Morning Sessions</button>
-		        <div id="morning2" class="collapse show">
-		          <p class="text">
-	
-            </div>
-        </div>
-  </div>
-
-	<div class="row">
-          <div class="col-md-3 col-sm-3 col-xs-3 col-4"><p class="time">10:30 - 10:45</p></div>
-          <div class="col-md-9 col-sm-9 col-xs-9 col-8"><p class="activity">Coffee Break</p></div>
-  </div>
-
- <div class="row">        
-        <div class="col-md-3 col-sm-3 col-xs-3 col-4"><p class="time">10:45 - 12:00</p></div>
-        <div class="col-md-9 col-sm-9 col-xs-9 col-8">
-          <button type="button" class="btn" data-toggle="collapse" aria-expanded="true" data-target="#lmorning2">Late Morning Sessions</button>
-		        <div id="lmorning2" class="collapse show">
-		          <p class="text">
-	
-            </div>
-        </div>
-  </div>
-
-	<div class="row">
-          <div class="col-md-3 col-sm-3 col-xs-3 col-4"><p class="time">12:00 - 13:30</p></div>
-          <div class="col-md-9 col-sm-9 col-xs-9 col-8"><p class="activity">Lunch Break</p></div>
-  </div>
-
- <div class="row">        
-        <div class="col-md-3 col-sm-3 col-xs-3 col-4"><p class="time">13:30 - 15:30</p></div>
-        <div class="col-md-9 col-sm-9 col-xs-9 col-8">
-          <button type="button" class="btn" data-toggle="collapse" aria-expanded="true" data-target="#afternoon2">Afternoon Sessions</button>
-		        <div id="afternoon2" class="collapse show">
-		          <p class="text">
-	
-            </div>
-        </div>
-  </div>
-        
-	<div class="row">
-          <div class="col-md-3 col-sm-3 col-xs-3 col-4"><p class="time">15:30 - 16:30</p></div>
-          <div class="col-md-9 col-sm-9 col-xs-9 col-8"><p class="activity">Poster Session II & Coffee Break</p></div>
-  </div>
-
- <div class="row">        
-        <div class="col-md-3 col-sm-3 col-xs-3 col-4"><p class="time">16:30 - 18:00</p></div>
-        <div class="col-md-9 col-sm-9 col-xs-9 col-8">
-          <button type="button" class="btn" data-toggle="collapse" aria-expanded="true" data-target="#lafternoon2">Late Afternoon Sessions</button>
-		        <div id="lafternoon2" class="collapse show">
-		          <p class="text">
-	
-            </div>
-        </div>
-  </div> 
-
-
-  <h3>Sunday, April 28 (CCB)</h3>
-  <hr>
-  <div class="row">
-    <div class="col-md-3 col-sm-3 col-xs-3 col-4"><p class="time">09:00 - 09:30</p></div>
-    <div class="col-md-9 col-sm-9 col-xs-9 col-8"><p class="activity"><b>Breakfast</b></p></div>
-  </div>  
-
-	<div class="row">        
-        <div class="col-md-3 col-sm-3 col-xs-3 col-4"><p class="time">09:30 - 10:30</p></div>
-        <div class="col-md-9 col-sm-9 col-xs-9 col-8">
-          <button type="button" class="btn" data-toggle="collapse" aria-expanded="true" data-target="#morning2">Morning Sessions</button>
-		        <div id="morning2" class="collapse show">
-		          <p class="text">
-	
-            </div>
-        </div>
-  </div>
-
-	<div class="row">
-          <div class="col-md-3 col-sm-3 col-xs-3 col-4"><p class="time">10:30 - 10:45</p></div>
-          <div class="col-md-9 col-sm-9 col-xs-9 col-8"><p class="activity">Coffee Break</p></div>
-  </div>
-
- <div class="row">        
-        <div class="col-md-3 col-sm-3 col-xs-3 col-4"><p class="time">10:45 - 12:00</p></div>
-        <div class="col-md-9 col-sm-9 col-xs-9 col-8">
-          <button type="button" class="btn" data-toggle="collapse" aria-expanded="true" data-target="#lmorning2">Late Morning Sessions</button>
-		        <div id="lmorning2" class="collapse show">
-		          <p class="text">
-	
-            </div>
-        </div>
-  </div>
-
-	<div class="row">
-          <div class="col-md-3 col-sm-3 col-xs-3 col-4"><p class="time">12:00 - 13:30</p></div>
-          <div class="col-md-9 col-sm-9 col-xs-9 col-8"><p class="activity">Lunch Break</p></div>
-  </div>
-	      
-   <div class="row">        
-        <div class="col-md-3 col-sm-3 col-xs-3 col-4"><p class="time">13:30 - 15:30</p></div>
-        <div class="col-md-9 col-sm-9 col-xs-9 col-8">
-          <button type="button" class="btn" data-toggle="collapse" aria-expanded="true" data-target="#afternoon3">Afternoon Sessions</button>
-		        <div id="afternoon3" class="collapse show">
-		          <p class="text">
-	
-            </div>
-        </div>
-  </div>
-        
-  <div class="row">
-          <div class="col-md-3 col-sm-3 col-xs-3 col-4"><p class="time">15:30 - 16:00</p></div>
-          <div class="col-md-9 col-sm-9 col-xs-9 col-8"><p class="activity">Coffee Break</p></div>
-  </div>
-
- <div class="row">        
-        <div class="col-md-3 col-sm-3 col-xs-3 col-4"><p class="time">16:00 - 17:00</p></div>
-        <div class="col-md-9 col-sm-9 col-xs-9 col-8">
-          <button type="button" class="btn" data-toggle="collapse" aria-expanded="true" data-target="#lafternoon3">Late Afternoon Sessions</button>
-		        <div id="lafternoon3" class="collapse show">
-		          <p class="text">
-	
-            </div>
-        </div>
-  </div> 
 
 	
 *Time Zone: EST
