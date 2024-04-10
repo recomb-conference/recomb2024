@@ -184,18 +184,16 @@
     <div class="col-md-9 col-sm-9 col-xs-9 col-8"><p class="activity"><b>Breakfast</b></p></div>
   </div>  
 
-	<div class="row">        
-        <div class="col-md-3 col-sm-3 col-xs-3 col-4"><p class="time">09:30 - 10:30</p></div>
-        <div class="col-md-9 col-sm-9 col-xs-9 col-8">
-          <button type="button" class="btn" data-toggle="collapse" aria-expanded="true" data-target="#morning">Morning Sessions</button>
-		        <div id="morning" class="collapse show">
-		          <p class="text">
-	
-            </div>
-        </div>
-  </div>
+<div class="row">
+   <div class="col-md-3 col-sm-3 col-xs-3 col-4"><p class="time">09:30 - 10:30</p></div>
+   <div class="col-md-5 col-sm-5 col-xs-5 col-6"><p class="invited-speaker"><a href="https://dbmi.hms.harvard.edu/people/shamil-sunyaev">Shamil Sunyaev</a></p></div>
+   <div class="col-md-4 col-sm-4 col-xs-4 col-2">
+	    <button type="button" class="btn-keynote" data-toggle="collapse" data-target="#keynote1"> Keynote Talk</button>
+   </div>
+</div>
 
-	<div class="row">
+
+<div class="row">
           <div class="col-md-3 col-sm-3 col-xs-3 col-4"><p class="time">10:30 - 10:45</p></div>
           <div class="col-md-9 col-sm-9 col-xs-9 col-8"><p class="activity">Coffee Break</p></div>
   </div>
